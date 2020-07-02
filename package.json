@@ -1,0 +1,10 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.13.3",
+    "vuex": "^3.5.1"
+  }
+}
